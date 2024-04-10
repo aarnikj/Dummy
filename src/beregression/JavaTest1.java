@@ -12,16 +12,16 @@ public class JavaTest1 {
 		//BY DEFINING THE ARRAY SIZE
 		int[] arr1 = new int[6];
 		arr1[0] = 25;
-		arr1[1] = 78;
-		arr1[2] = 86;
+		arr1[1] = 75;
+		arr1[2] = 85;
 		arr1[3] = 35;
-		arr1[4] = 99;
-		arr1[5] = 24;
+		arr1[4] = 95;
+		arr1[5] = 45;
 		
 		//another way to describe an array
 		//THIS ARRAY HAS A DISADVANTAGE AS WE HAVE TO ASSIGN THE MEMORY AND VALUES TO THE ARRAY IN THE BEGINING 
 		//BY DEFINING THE WHOLE ARRAY WITH VALUES
-		int[] arr2 = {78, 76, 32, 84, 32, 23};
+		int[] arr2 = {70, 70, 82, 84, 32, 23};
 		
 		
 		
