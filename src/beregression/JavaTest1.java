@@ -11,12 +11,12 @@ public class JavaTest1 {
 		//THIS ARRAY HAS A DISADVANTAGE AS WE HAVE TO ASSIGN THE MEMORY TO THE ARRAY IN THE BEGINING 
 		//BY DEFINING THE ARRAY SIZE
 		int[] arr1 = new int[6];
-		arr1[0] = 25;
-		arr1[1] = 75;
-		arr1[2] = 85;
-		arr1[3] = 35;
-		arr1[4] = 95;
-		arr1[5] = 45;
+		arr1[0] = 20;
+		arr1[1] = 70;
+		arr1[2] = 80;
+		arr1[3] = 30;
+		arr1[4] = 90;
+		arr1[5] = 40;
 		
 		//another way to describe an array
 		//THIS ARRAY HAS A DISADVANTAGE AS WE HAVE TO ASSIGN THE MEMORY AND VALUES TO THE ARRAY IN THE BEGINING 
